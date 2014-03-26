@@ -1,3 +1,5 @@
+# THIS IS A WORK IN PROGRESS
+
 # Data Diary for 2012 Greenhouse Gas Emissions from Large Facilities
 
 This is a data diary that walks through the steps of acquiring [data reported by facilities that directly emit GHGs, and information reported by suppliers of fossil fuels and industrial gases](http://www.epa.gov/ghgreporting/ghgdata/2012data.html) and preparing it for analysis.
@@ -11,7 +13,7 @@ This guide will cover how I downloaded a dataset about US greenhouse emissions f
 
 #### Source
 
-- [Webform for T-100 Domestic Segment (U.S. Carriers)](http://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=259&DB_Short_Name=Air%20Carriers) - wherefrom the CSV is downloaded
+- [Webform for Greenhouse Gas Reporting Program: 2012 Data Sets (EPA)](http://www.epa.gov/ghgreporting/ghgdata/2012data.html) - wherefrom the CSV is downloaded
 
 #### Tools
 
