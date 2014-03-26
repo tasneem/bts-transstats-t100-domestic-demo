@@ -1,10 +1,10 @@
-# Data Diary for BTS Transtats, T100
+# Data Diary for 2012 Greenhouse Gas Emissions from Large Facilities
 
-This is a sample data diary that walks through the steps of acquiring [air carrier payload data from the Bureau of Transportation Statistics](http://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=259&DB_Short_Name=Air%20Carriers) and preparing it for SQL analysis.
+This is a data diary that walks through the steps of acquiring [data reported by facilities that directly emit GHGs, and information reported by suppliers of fossil fuels and industrial gases](http://www.epa.gov/ghgreporting/ghgdata/2012data.html) and preparing it for analysis.
 
 ## The steps
 
-This guide will cover how to download a dataset about U.S. air carriers from a government webform, how to prune and clean the data, and how to insert it into a SQL database.
+This guide will cover how I downloaded a dataset about US greenhouse emissions from a government webform, pruned and cleaned this data, and uploaded to tk.
 
 
 ### Quick reference
